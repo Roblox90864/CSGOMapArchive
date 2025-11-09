@@ -1,0 +1,36 @@
+:root{
+  --bg:#0f1724; --card:#112033; --accent:#1ea7fd; --muted:#9aa8bd; --radius:10px;
+}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;background:linear-gradient(180deg,var(--bg),#071021);color:#e6eef6;min-height:100vh}
+header{padding:36px 24px;text-align:center}
+header h1{margin:0;font-size:28px}
+.subtitle{color:var(--muted);margin-top:6px}
+main{max-width:980px;margin:24px auto;padding:0 16px}
+.controls{display:flex;justify-content:center;margin-bottom:18px}
+#search{width:100%;max-width:520px;padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:#071827;color:inherit}
+.maps{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.card{background:var(--card);padding:14px;border-radius:var(--radius);box-shadow:0 6px 18px rgba(2,6,23,0.6)}
+.card h3{margin:0 0 8px 0;font-size:16px}
+.card p{margin:0 0 10px 0;color:var(--muted);font-size:13px}
+.actions{display:flex;gap:8px}
+.btn{display:inline-block;padding:8px 10px;border-radius:8px;text-decoration:none;color:#031428;background:var(--accent);font-weight:600}
+.btn.secondary{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted)}
+.instructions{margin-top:28px;color:var(--muted);font-size:14px}
+footer{max-width:980px;margin:26px auto 60px auto;padding:0 16px;color:var(--muted);font-size:12px;text-align:center}
+
+/* Credit text: very small and faint */
+.credit{
+  font-size:10px;
+  color: rgba(230,238,246,0.06); /* very faint on dark background */
+  margin-top:8px;
+  letter-spacing:0.2px;
+  transition:opacity .2s;
+}
+
+/* optional: slightly more visible on hover for accessibility */
+.credit:hover{
+  color: rgba(230,238,246,0.12);
+}
+
+@media (max-width:520px){header h1{font-size:20px}}
