@@ -1,5 +1,5 @@
-const OWNER = 'Fizzyyt64';
-const REPO = 'csgoshit';
+const OWNER = 'Roblox90864';
+const REPO = 'CSGOMapArchive';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/maps/`;
 
