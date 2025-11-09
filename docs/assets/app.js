@@ -1,7 +1,7 @@
 const OWNER = 'Fizzyyt64';
 const REPO = 'csgoshit';
 const BRANCH = 'main';
-const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/maps/`;
+const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/maps/`;
 
 async function loadMaps(){
   try{
