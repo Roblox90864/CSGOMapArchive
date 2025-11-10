@@ -1,8 +1,405 @@
 [
   {
-    "name": "Library",
-    "file": "de_library.bsp",
-    "description": "Test",
+    "name": "Monastery",
+    "file": "ar_monastery.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "1 MB"
+  }
+    {
+    "name": "Dust II (Control Points)",
+    "file": "cp_dust2.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "39 MB"
+  }
+    {
+    "name": "Rooftop",
+    "file": "cp_rooftop.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "17 MB"
+  }
+    {
+    "name": "Agency",
+    "file": "cs_agency.bsp",
+    "description": "Comes in the .zip format",
+    "size": "50 MB"
+  }
+    {
+    "name": "Backalley",
+    "file": "cs_backalley.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "50 MB"
+  }
+  {
+    "name": "Compound",
+    "file": "cs_compound.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "36 MB"
+  }
+  {
+    "name": "Cruise",
+    "file": "cs_cruise.bsp",
+    "description": "Comes in the .zip format",
+    "size": "64 MB"
+  }
+  {
+    "name": "Downtown",
+    "file": "cs_downtown.bsp",
+    "description": "Comes in the .bsp format",
     "size": "63 MB"
   }
+  {
+    "name": "Havana",
+    "file": "cs_havana.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Insertion",
+    "file": "cs_insertion.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Militia",
+    "file": "cs_militia.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Motel",
+    "file": "cs_motel.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Museum",
+    "file": "cs_museum.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Rush",
+    "file": "cs_rush.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Siege",
+    "file": "cs_siege.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Thunder",
+    "file": "cs_thunder.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Workout",
+    "file": "cs_workout.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Ali",
+    "file": "de_ali.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Austria",
+    "file": "de_austria.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Aztec",
+    "file": "de_aztec.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Bazaar",
+    "file": "de_bazaar.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Coast",
+    "file": "de_coast.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Crete",
+    "file": "de_crete.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Dust",
+    "file": "de_dust2.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Dust II",
+    "file": "de_elysion.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Elysion",
+    "file": "de_empire.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Empire",
+    "file": "de_empire.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Engage",
+    "file": "de_engage.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Facade",
+    "file": "de_facade.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Favela",
+    "file": "de_favela.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Guard",
+    "file": "de_guard.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Gwalior",
+    "file": "de_gwalior.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Hive",
+    "file": "de_hive.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Inferno",
+    "file": "de_inferno.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Library",
+    "file": "de_library.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Lite",
+    "file": "de_lite.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Log",
+    "file": "de_log.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Marquis",
+    "file": "de_marquis.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Mikla",
+    "file": "de_mikla.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Mirage",
+    "file": "de_mirage.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Mist",
+    "file": "de_mist.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Nuke",
+    "file": "de_nuke.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Overgrown",
+    "file": "de_overgrown.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Overpass",
+    "file": "de_overpass.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Piranesi",
+    "file": "de_piranesi.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Port",
+    "file": "de_port_b2.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Prodigy",
+    "file": "de_prodigy.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Rails",
+    "file": "de_rails.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Ravine",
+    "file": "de_ravine.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Resort",
+    "file": "de_resort.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Royal",
+    "file": "de_royal.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Ruins",
+    "file": "de_ruins.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Santorini",
+    "file": "de_santorini.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Seaside",
+    "file": "de_seaside.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Season",
+    "file": "de_season.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Train (Short)",
+    "file": "de_shorttrain.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Sparity",
+    "file": "de_sparity_v41.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Train (2014)",
+    "file": "de_train2014.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Train (2015)",
+    "file": "de_train2015.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Tulip",
+    "file": "de_tulip.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Vertigo",
+    "file": "de_vertigo.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Pool Day",
+    "file": "fy_pool_day.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Bank",
+    "file": "gd_bank.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Cobblestone (Guardian)",
+    "file": "gd_cbble.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Crashsite",
+    "file": "gd_crashsite.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Lake",
+    "file": "gd_lake.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+  {
+    "name": "Rilato",
+    "file": "gd_rialto.bsp",
+    "description": "Comes in the .bsp format",
+    "size": "63 MB"
+  }
+
 ]
